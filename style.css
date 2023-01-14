@@ -456,6 +456,7 @@ PROJECTS
 
 .project__img {
   width: 100%;
+  transform: scaleY(1.02);
   transition: all 400ms ease;
 }
 .project__wrapper {
